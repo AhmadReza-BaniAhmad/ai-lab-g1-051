@@ -34,3 +34,15 @@ Sensors:
 پویا: ممکن است هنگام تصمیم گیری عامل محیط تغییر کند. مثل امتیاز دادن کاربر
 
 گسسته: ویژگی های کتاب ها و کاربران و امتیاز های کاربران گسسته هستند و پیوسته نیستند.
+
+
+## Dataset
+
+Name: Goodbooks-10k
+
+Source:
+https://github.com/zygmuntz/goodbooks-10k
+only using ratings.csv
+
+License:
+Check LICENSE file in the mentioned repository
